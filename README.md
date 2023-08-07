@@ -42,6 +42,6 @@ Install my-project at pubspec.yaml
     
 ## API Documentation
 
-Access News [API Docs](https://cloud.google.com/docs/) to get started.
+Access Google map [API Docs](https://cloud.google.com/docs/) to get started.
 
-Access News [API Docs](https://console.firebase.google.com) to get started.
+Access Firebase [API Docs](https://console.firebase.google.com/docs) to get started.
