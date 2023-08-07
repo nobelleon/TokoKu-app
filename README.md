@@ -44,4 +44,4 @@ Install my-project at pubspec.yaml
 
 Access Google map [API Docs](https://cloud.google.com/docs/) to get started.
 
-Access Firebase [API Docs](https://console.firebase.google.com/docs) to get started.
+Access Firebase [API Docs](https://firebase.google.com/docs?hl=id) to get started.
