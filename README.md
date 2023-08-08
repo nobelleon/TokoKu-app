@@ -12,6 +12,7 @@ TokoKu App Made in Flutter.
 
 - Get Firebase authentication from console.firebase.google.com  API
 - Get google map from cloud.google.com  API
+- Collection data use Firebase Realtime database 
 - providers
 - Call Demo
 - Video Call Demo
