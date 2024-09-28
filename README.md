@@ -8,6 +8,10 @@ TokoKu App Made in Flutter.
 
 ![TokoKu1-horz](https://github.com/nobelleon/TokoKu-app/assets/76748114/89f5f417-5c1c-48b5-be0b-1d82111cc054)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 ## Features
 
 - Get Firebase authentication from console.firebase.google.com  API
@@ -46,3 +50,12 @@ Install my-project at pubspec.yaml
 Access Google map [API Docs](https://cloud.google.com/docs/) to get started.
 
 Access Firebase [API Docs](https://firebase.google.com/docs?hl=id) to get started.
+
+---
+
+## Don't forget to :star: the repository.
+
+## Support ❤️
+For support, you can contact me at this [Email](mailto:nobelleon.86@gmail.com) , [Instagram](https://www.instagram.com/nobelleon/) , [Facebook](https://web.facebook.com/n0beLLeon) , [X](https://twitter.com/_nObeLLeon) or at [LinkedIn](https://www.linkedin.com/in/nobelleon-mahardhika-291048124/) .
+
+
